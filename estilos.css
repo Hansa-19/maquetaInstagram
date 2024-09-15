@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0; 
+    background-color: #788bff;
+}
+.altura0 {
+    height: 80px;
+    background-color: #7e7e7e;
+}
+
+.altura1 {
+    height: 60px;
+    background-color: #9bb1ff;
+}
+
+.altura2 {
+    height: 60px;
+    background-color: #bfd7ff;
+}
+
+.altura3 {
+    height: 220px;
+    background-color: #e2fdff;
+}
+.altura4 {
+    height: 900px;
+    background-color: #cecbff;
+}
+.altura5 {
+    height: 60px;
+    background-color: #8079ff;
+}
+.altura6 {
+    height: 380px;
+    background-color: #dfdeff;
+}
